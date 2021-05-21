@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TranstelematicsTest</string>
+    <string name="auth_error">Что-то пошло не так</string>
+    <string name="no_connection_no_auth_text">Вы не авторизованы и интернет-соединение отсутсвует</string>
+    <integer name="com_vk_sdk_AppId">7858682</integer>
+    <string name="full_name">%1$S %2$S</string>
+    <string name="more_info">Подробнее</string>
+    <string name="friends">Список друзей</string>
+    <string name="settings">Настройки</string>
+    <string name="sex">Пол: %1$S</string>
+    <string name="bdate">День рождения: %1$S</string>
+    <string name="location">Город: %1$S , %2$S</string>
+    <string name="phone">Тел: %1$S</string>
+    <string name="followers">Подписчики: %1$d</string>
+    <string name="male">Муж</string>
+    <string name="female">Жен</string>
+    <string name="change_avatar">Сменить аватар</string>
+    <string name="logout">Выйти</string>
+    <string name="permission_gallery_denied">Для смены аватары необходимо дать разрешение</string>
+    <string name="online">Онлайн</string>
+    <string name="offline">Офлайн</string>
+    <string name="offline_notification">В офлайне режиме подробная информация будет показана \только если Вы уже заходили в карточку пользователя</string>
+</resources>
